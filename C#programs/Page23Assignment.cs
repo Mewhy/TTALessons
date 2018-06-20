@@ -1,5 +1,5 @@
 using System;
-	
+
 class Assign{
 
 	static void Main(){
