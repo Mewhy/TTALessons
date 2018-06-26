@@ -1,7 +1,9 @@
 using System;
 
-class Program{
-    static void Main(){
+class Program
+{
+    static void Main()
+    {
         Console.WriteLine("Anonymous Income Comparison Program");
 
         //Person 1
@@ -30,6 +32,7 @@ class Program{
         Console.WriteLine(p2TotalWage);
         Console.WriteLine("Does Person 1 make more money than Person 2 ?");
         Console.WriteLine(p1TotalWage > p2TotalWage);
+
         Console.ReadLine();
     }
 }
